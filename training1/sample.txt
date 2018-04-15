@@ -494,7 +494,7 @@ Bosmanie
 <format jaki="odręcznie"><podpis>Twój
 Zdzisław
 </podpis></format>
-
+</tresc>
 
 List - edycja #139
 
@@ -525,7 +525,7 @@ Zdzisław
 <komentarz> (przenosząc się z miejsca na miejsce trzeba się było meldować w policji, tak jak we Włoszech) </komentarz>
 </ps>
 </tresc>
-</tresc>
+
 
 
 List - edycja #140
